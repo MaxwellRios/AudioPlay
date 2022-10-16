@@ -1,6 +1,6 @@
 # Music Play
 
-Um modelo conceito para um aplicativo de áudio.
+Modelo conceito para um aplicativo de áudio.
 
 ![1080x1920 (1080 × 1920 px) (540 × 960 px) (1)](https://user-images.githubusercontent.com/3016393/196015373-37e71950-31de-4ef1-bc20-826132a4b915.png)
 
