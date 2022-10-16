@@ -1,16 +1,21 @@
-# music_play
+# Music Play
 
-A new Flutter project.
+Um modelo conceito para um aplicativo de áudio.
 
-## Getting Started
+![1080x1920 (1080 × 1920 px) (540 × 960 px) (1)](https://user-images.githubusercontent.com/3016393/196015373-37e71950-31de-4ef1-bc20-826132a4b915.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Construído com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* [Flutter](https://docs.flutter.dev/) - Framework
+* [Dart](https://dart.dev/guides)      - Back-end
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Instalar Dependências
+  
+   $ flutter pub add percent_indicator
+   
+## 📄 Licença
+
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/MaxwellRios/AudioPlay/blob/master/LICENCE) para detalhes.
+
+
